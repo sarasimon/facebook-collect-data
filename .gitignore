@@ -1,3 +1,5 @@
 .idea/
 __pycache__/
 fb_env/
+fb_data
+client_secret.json
