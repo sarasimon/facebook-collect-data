@@ -1,4 +1,4 @@
-certifi==2017.7.27.1
+certifi==2022.12.7
 chardet==3.0.4
 -e git+https://github.com/mobolic/facebook-sdk.git@410f5c5892acea0c7a45a5382abccb6b7c702d6d#egg=facebook_sdk
 google-api-python-client==1.6.4
